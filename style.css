@@ -53,6 +53,7 @@ body {
 .month {
   font-size: 3rem;
   font-weight: 300;
+  text-transform: uppercase;
 }
 
 .day-month-date {
